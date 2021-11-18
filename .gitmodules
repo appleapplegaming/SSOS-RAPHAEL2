@@ -1,0 +1,3 @@
+[submodule "ssos"]
+	path = ssos
+	url = https://github.com/appleapplegaming/ssos.git
